@@ -1,4 +1,4 @@
-# SEAstartup — Documento de Reflexión
+# SEAstartup 
 
 **Equipo:** Alexandra · Sebastián · Elkin  
 **Asignatura:** Ingeniería Web  
